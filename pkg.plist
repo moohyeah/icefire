@@ -11,19 +11,19 @@
                     <key>kind</key>  
                     <string>software-package</string>  
                     <key>url</key>  
-                    <string>http://192.168.1.114/ios/stardomglory/Unity-iPhone.ipa</string>  
+                    <string>http://192.168.1.114/ios/planetrise/Unity-iPhone.ipa</string>  
                 </dict>  
             </array>  
             <key>metadata</key>  
             <dict>  
                 <key>bundle-identifier</key>  
-                <string>com.icefire.biubiu</string>  
+                <string>com.binghuo.planetrise</string>  
                 <key>bundle-version</key>  
                 <string>1.0.0</string>  
                 <key>kind</key>  
                 <string>software</string>  
                 <key>title</key>  
-                <string>冰火星际</string>  
+                <string>星球崛起</string>  
             </dict>  
         </dict>  
     </array>  
